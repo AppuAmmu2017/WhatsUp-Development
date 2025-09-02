@@ -9,3 +9,7 @@ Last seen code
 Attachment code
 
 Hide last seen code
+
+Audio call feature
+
+Video call feature
