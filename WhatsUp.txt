@@ -7,3 +7,5 @@ Chat screen code
 Last seen code
 
 Attachment code
+
+Hide last seen code
